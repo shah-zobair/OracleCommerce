@@ -1,0 +1,5 @@
+8888
+8090
+Y
+apps/opt/weblogic/endeca/MDEX/6.5.1/
+Y
